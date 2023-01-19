@@ -18,5 +18,7 @@ public class Drivetrain {
         System.out.println("Drivetrain has moved " + a + " metres");
       }
 
-    }
+      //Make a funtion that quickturns
+      //Make a fucntion that returns the current angle of the robot
+}
 
