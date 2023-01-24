@@ -7,10 +7,10 @@ public class Intake {
 
         if (intakeon) {
             intakeon = false;
-            System.out.println("off");
+            System.out.println("intake off");
         } else {
             intakeon = true;
-            System.out.println("on");
+            System.out.println("intake on");
         }
 
 }
